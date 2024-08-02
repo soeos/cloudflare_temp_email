@@ -6,6 +6,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://temp-mail-docs.awsl.uk" target="_blank">
     <img alt="docs" src="https://img.shields.io/badge/docs-grey?style=for-the-badge&logo=vitepress">
